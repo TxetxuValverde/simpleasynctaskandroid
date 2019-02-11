@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAsyncTaskAndroid</string>
+    <string name="ready">I am ready to start work!</string>
+    <string name="napping">Waiting for results...</string>
+</resources>
